@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\mk1\mk1\bin\Debug\net8.0\mk1.exe
+C:\Users\USER\source\repos\mk1\mk1\bin\Debug\net8.0\mk1.deps.json
+C:\Users\USER\source\repos\mk1\mk1\bin\Debug\net8.0\mk1.runtimeconfig.json
+C:\Users\USER\source\repos\mk1\mk1\bin\Debug\net8.0\mk1.dll
+C:\Users\USER\source\repos\mk1\mk1\bin\Debug\net8.0\mk1.pdb
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.AssemblyInfo.cs
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.sourcelink.json
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.dll
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\refint\mk1.dll
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.pdb
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\mk1.genruntimeconfig.cache
+C:\Users\USER\source\repos\mk1\mk1\obj\Debug\net8.0\ref\mk1.dll
